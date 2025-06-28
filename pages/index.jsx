@@ -1,0 +1,1 @@
+/* Zde bude vložen kód zevyp webu – bude nahrazen v další části */
