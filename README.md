@@ -1,3 +1,3 @@
 # Zevyp.cz
 
-Moderní web pro výkopové a zemní práce.
+Čistý Next.js projekt připravený pro GitHub a Vercel.
